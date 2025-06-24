@@ -1,4 +1,4 @@
-![Header](https://github.com/PriyankaNandii/PriyankaNandii/blob/main/github-header-image.png)
+
 
 <p align="center">A passionate  Developer from Bangladesh. I completed my BSc in Computer Science and Engineering. Passionate about creating dynamic and responsive websites. I am dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
 <p align="center">A passionate  Developer from Bangladesh. I completed my BSc in Computer Science and Engineering. I am passionate about creating dynamic and responsive websites and dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
