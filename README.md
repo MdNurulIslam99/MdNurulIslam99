@@ -1,3 +1,12 @@
+- 👋 Hi, I’m @Md_Nurul_Islam.
+- 🔰 I’m looking to collaborate on building a CMS for Web.
+- 👀 I’m also interested in Networking.
+- 🌱 I’m looking for help with developing a CMS
+- 🌱 I’m currently learning React, mongoDb and express js.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me.
+- Email: mdnurulislam.eng@gmail.com
+- Phone: 01634064799
 
 
 <p align="center">A passionate  Developer from Bangladesh. I completed my BSc in Computer Science and Engineering. Passionate about creating dynamic and responsive websites. I am dedicated to writing clean, efficient code and continuously learning to improve and expand my skill set.</p>
