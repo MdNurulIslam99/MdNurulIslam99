@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning React, mongoDb and express js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.
-- Email: mdnurulislam.eng@gmail.com
-- Phone: 01634064799
+- 📧 Email: mdnurulislam.eng@gmail.com
+- 📱 Phone: 01634064799
 
 
 <p align="Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.</p>
