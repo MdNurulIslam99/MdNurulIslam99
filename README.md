@@ -4,24 +4,21 @@
 
 ## 💫 About Me
 
+Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.
+
 - 👋 Hi, I’m @Md_Nurul_Islam  
 - 🔰 I’m looking to collaborate on building a CMS for the web  
 - 👀 I’m also interested in Networking  
 - 🌱 Currently learning React, MongoDB, and Express.js  
 - 🌱 Looking for help with developing a CMS  
 - 📫 How to reach me:  
-- 📧 Email: mdnurulislam.eng@gmail.com  
-- 📱 Phone: 01634064799
-
-
-<p align="Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.</p>
-
+  - 📧 Email: mdnurulislam.eng@gmail.com  
+  - 📱 Phone: 01634064799  
 
 ## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/2JMkKXEs) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nurul_islam/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnurulislameng/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/2JMkKXEs)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nurul_islam)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnurulislameng/)  
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -47,13 +44,13 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdNurulIslam99&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdNurulIslam99&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNurulIslam99&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdNurulIslam99&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdNurulIslam99&theme=radical&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNurulIslam99&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdNurulIslam99&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Top Contributor Stats](https://github-contributor-stats.vercel.app/api?username=MdNurulIslam99&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MdNurulIslam99&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Profile Visit Count](https://visitcount.itsvg.in/api?id=MdNurulIslam99&icon=0&color=6)](https://visitcount.itsvg.in)
