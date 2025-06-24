@@ -14,7 +14,7 @@
 
 <p align="Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyankaNandii&label=Profile%20views&color=0e75b6&style=flat" alt="PriyankaNandii" /> </p>
+
 
 <p align="left">
 
