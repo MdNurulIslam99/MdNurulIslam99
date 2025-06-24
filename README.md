@@ -12,8 +12,8 @@ Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. 
 - 🌱 Currently learning React, MongoDB, and Express.js  
 - 🌱 Looking for help with developing a CMS  
 - 📫 How to reach me:  
-  - 📧 Email: mdnurulislam.eng@gmail.com  
-  - 📱 Phone: 01634064799  
+- 📧 Email: mdnurulislam.eng@gmail.com  
+- 📱 Phone: 01634064799  
 
 ## 🌐 Socials:
 
