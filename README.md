@@ -15,7 +15,6 @@
 <p align="Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.</p>
 
 
-
 <p align="left">
 
 <h3 align="left">Connect with me:</h3>
@@ -53,3 +52,4 @@
 
 <h3 align="left">Language Used </h3>
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaNandii&layout=compact&theme=onedark" alt=PriyankaNandii /></p>
+
