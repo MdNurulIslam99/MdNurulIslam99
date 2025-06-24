@@ -43,7 +43,7 @@ Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![DaisyUI](https://img.shields.io/badge/DaisyUI-UI%20Component-%230065FF?style=for-the-badge&logo=https://raw.githubusercontent.com/MdNurulIslam99/MdNurulIslam99/main/daisyui-logo.jpg&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%230065FF.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
