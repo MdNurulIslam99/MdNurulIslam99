@@ -4,8 +4,6 @@
 
 ## 💫 About Me
 
-Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.
-
 - 👋 Hi, I’m @Md_Nurul_Islam  
 - 🔰 I’m looking to collaborate on building a CMS for the web  
 - 👀 I’m also interested in Networking  
@@ -13,7 +11,9 @@ Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. 
 - 🌱 Looking for help with developing a CMS  
 - 📫 How to reach me:  
 - 📧 Email: mdnurulislam.eng@gmail.com  
-- 📱 Phone: 01634064799  
+- 📱 Phone: 01634064799
+  
+Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.
 
 ## 🌐 Socials:
 
