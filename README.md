@@ -1,8 +1,6 @@
-<table>
-  <tr>
-    <td width="60%">
-      
-<h2>💫 About Me</h2>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+
+## 💫 About Me
 
 - 👋 Hi, I’m @Md_Nurul_Islam  
 - 🔰 I’m looking to collaborate on building a CMS for the web  
@@ -11,14 +9,7 @@
 - 🌱 Looking for help with developing a CMS  
 - 📫 How to reach me:  
   - 📧 Email: mdnurulislam.eng@gmail.com  
-  - 📱 Phone: 01634064799  
-
-</td>
-<td>
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</td>
-</tr>
-</table>
+  - 📱 Phone: 01634064799
 
 
 <p align="Hi, I'm Md Nurul Islam. I completed my BSc in Computer Science and Engineering. I'm a dedicated Frontend Developer with hands-on experience in building responsive, user-friendly, and interactive web applications. My core skills lie in creating dynamic and responsive websites using modern frontend technologies. I focus on writing clean, efficient, and maintainable code. I enjoy turning ideas into real-world projects and continuously exploring new technologies to improve my craft.</p>
